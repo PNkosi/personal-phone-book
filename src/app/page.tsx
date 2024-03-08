@@ -1,5 +1,4 @@
 import CreateContact from "@/components/create-contact";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import UserCard from "@/components/user-card";
 import prisma from "@/lib/prisma";
